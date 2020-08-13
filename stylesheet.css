@@ -1,12 +1,12 @@
 body {
   background-color: black;
-  color: white;
-}
-
-a {
   color: yellow;
 }
 
-a:visited {
+a {
   color: red;
+}
+
+a:visited {
+  color: purple;
 }
