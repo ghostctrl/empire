@@ -1,12 +1,13 @@
 body {
   background-color: black;
-  color: yellow;
+  color: lime;
 }
 
 a {
-  color: red;
+  color: cyan;
 }
 
-a:visited {
-  color: purple;
+a:hover {
+  color: black;
+  background-color: yellow;
 }
